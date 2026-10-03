@@ -1,5 +1,5 @@
  Daniel Nordby
-▎ E-commerce architect and technical lead. I design and deliver hosted, headless, and composable e-commerce solutions - end to end, from architecture to launch.
+▎E-commerce architect and technical lead. I design and deliver hosted, headless, and composable e-commerce solutions - end to end, from architecture to launch.
 
  I translate between the people who run the business and the people who build it.
 
